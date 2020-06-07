@@ -1,0 +1,1 @@
+document.getElementsByClassName("myclass")="AAAAlah Akbar";
